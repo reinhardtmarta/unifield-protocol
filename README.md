@@ -13,9 +13,8 @@ The first Kaluza–Klein graviton at 1.42 ± 0.06 TeV, testable at the HL-LHC.
 A deviation from Newtonian gravity of ∆g/g ≈ 8.3 × 10⁻⁹ at 72 µm.
 Key Contributions
 Dynamic Term: Ω_α(z) = α sech²[β ln(1 + z) - β ln(1 + γ)], with fitted parameters α = 0.412 ± 0.003, γ = 11.92 ± 0.08, β ≈ 1 (rescaled for visualization; physical β = k/H₀ ~ 10⁵⁴).
-![H(z) Comparison with DESI DR2 Data](figures/hz_comparison.png) *Figure 2: Comparison of H(z) for ϕ Protocol vs. ΛCDM, superimposed on BAO DESI DR2 data (r_d=147 Mpc). The ϕ term improves the fit in high-z.*
-![Relative Hubble Ratio (β=1)](figures/ratio_plot.png) *Figure 3: Ratio H_ϕ / H_ΛCDM, highlighting the transient effect (~0.2% acceleration at z~12).* 
-![Geometric Coherence Function Ω_α(z)](figures/coherence_function.png) *Figure 1: Coherence function Ω_α(z), with a peak at z≈11.92 for early acceleration.*
+![Comparison with DESI DR2 Data](figures/comparison.png) *Comparison of H(z) for ϕ Protocol vs. ΛCDM, superimposed on BAO DESI DR2 data (r_d=147 Mpc). The ϕ term improves the fit in high-z.*
+!Diference moves(figures/visual.png) *Figure to discrbed the diference*
 Unified Framework: Derives from RS-II Weyl curvature projection, linking cosmology to particle physics.
 Empirical Fit: Improves χ²/dof from >>1 (ΛCDM) to 1.03 ± 0.04 using JWST + BAO + CMB data.
 For the full paper, see TPU.pdf.
