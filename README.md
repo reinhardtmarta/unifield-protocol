@@ -1,9 +1,9 @@
-#The ϕ Protocol: A Geometric Coherence Law Unifying Early Cosmology and the Hierarchy Problem
+# The ϕ Protocol: A Geometric Coherence Law Unifying Early Cosmology and the Hierarchy Problem
 �
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17691207.svg)](https://doi.org/10.5281/zenodo.17691207)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-unified--protocol-blue?logo=github)](https://github.com/reinhardtmarta/unifield-protocol)
 
-Overview
+## Overview
 This repository accompanies the preprint The ϕ Protocol: A Geometric Coherence Law Unifying Early Cosmology and the Hierarchy Problem by Marta Reinhardt (Independent Researcher), published on Zenodo on November 23, 2025.
 The standard ΛCDM cosmological model faces a Crisis of Coherence due to observations of mature galaxies at redshifts z > 10 by JWST. These structures require more time to form than allowed by the standard expansion history.
 We introduce the ϕ Protocol: a fundamental Geometric Coherence Law replacing the static cosmological constant with a dynamic energy-density term ρ_α(z) arising from geometric leakage in a Randall–Sundrum II (RS-II) brane-bulk framework. The dynamic term, expressed through a hyperbolic secant profile, provides a transient early-universe acceleration consistent with JWST, BAO, and CMB data, achieving statistical coherence with χ²/dof ≈ 1.03.
@@ -29,5 +29,5 @@ BibTeX:
   doi = {10.5281/zenodo.17691207},
   url = {https://zenodo.org/records/17691207}
 }
-License
+## License
 This work is licensed under CC-BY-4.0 (Creative Commons Attribution 4.0 International). See LICENSE for details. Notebooks and data are MIT-licensed for reuse.
